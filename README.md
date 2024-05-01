@@ -1,1 +1,1 @@
-### [Fancy-Counter](https://mini-fancy-counter.netlify.app/)
+## [Fancy-Counter](https://mini-fancy-counter.netlify.app/)
